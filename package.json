@@ -6,7 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["crud", "maker", "crudmaker"],
+  "keywords": [
+    "crud",
+    "maker",
+    "crudmaker"
+  ],
   "author": "Jean Bonilha <jeanbonilha.webdev@gmail.com> (https://github.com/jean-bonilha)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios-rest-client": "^0.1.11"
+  }
 }
