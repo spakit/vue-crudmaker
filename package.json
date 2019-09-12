@@ -1,0 +1,12 @@
+{
+  "name": "crudmaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jean Bonilha <jeanbonilha.webdev@gmail.com> (https://github.com/jean-bonilha)",
+  "license": "MIT"
+}
