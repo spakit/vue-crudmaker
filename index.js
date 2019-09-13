@@ -1,9 +1,11 @@
-"use strict";
+'use strict';
 
-const form = require("./lib/form");
-const table = require("./lib/table");
+const form = require('./lib/form');
+const install = require('./lib/install');
+const table = require('./lib/table');
 
 module.exports = {
   form,
-  table
+  install,
+  table,
 };
